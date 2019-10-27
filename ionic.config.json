@@ -1,5 +1,7 @@
 {
   "name": "ionic_push_fcm",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
